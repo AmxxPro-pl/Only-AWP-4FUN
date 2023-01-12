@@ -32,7 +32,7 @@
 
 </details>
 
-#### Lista pluginów:
+### Lista pluginów:
 
 <details>
 <summary><b>Lista pluginów:</b></summary>
