@@ -1,4 +1,9 @@
-# Only AWP + 4 FUN
+<div align="center">
+<h1><p></p>ONLY AWP + 4FUN<p></p></h1>
+<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner-new.png"></img>
+</div>
+
+---
 
 <b> Unikatowa paczka Only AWP + 4FUN - jedyna w swoim rodzaju poprzez unikatowy system losowania trybów. (aby samemu sprawdzić paczkę zgłoś się do właściciela poprzez discorda)
 
